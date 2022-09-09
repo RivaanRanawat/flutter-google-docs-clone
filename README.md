@@ -1,16 +1,31 @@
-# docs_clone_flutter
+# Google Docs Clone
 
-A new Flutter project.
+A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
-## Getting Started
+## Features
+- Google Authentication
+- State Persistence
+- Creating new Documents
+- Viewing List of Documents
+- Updating title of Document
+- Link sharing
+- Auto saving
+- Collaborative Editing in Rich Text Editor
+- Sign Out
 
-This project is a starting point for a Flutter application.
+## YouTube
+I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/W6vAQdzLcu4) 
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img width="600" src="https://github.com/RivaanRanawat/flutter-google-docs-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Used
+**Server**: Nodejs, Express, MongoDB, Mongoose, SocketIO
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Client**: Flutter, Riverpod
+    
+## Feedback
+
+If you have any feedback, please reach out to me at namanrivaan@gmail.com
+
